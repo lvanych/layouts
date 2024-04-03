@@ -1,0 +1,15 @@
+.list {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 50px;
+  }
+  .shop-list {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .list-card-img {
+    height: 200px;
+  } 
